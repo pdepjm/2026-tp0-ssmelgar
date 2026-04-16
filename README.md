@@ -2,8 +2,6 @@
 * Sofia Mei Sakugawa
 * 214.098-6
   
-<img width="1000" height="1000" alt="pfptp0" src="https://github.com/user-attachments/assets/a83b0a7b-b27c-43af-8798-d4569b4ee7d2" />
-
 > *“I was an ordinary person with ordinary skills. But even so, this didn't mean I could only do ordinary things.”
 ― Kim Dokja* 
 
