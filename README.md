@@ -1,7 +1,7 @@
 ## Sofia Mei Sakugawa
 * 214.098-6
-
-![Pfp](C:\Users\Saku\Documents\UTN\Cursada segundo nivel\PdP\pfptp0.jpg)
+  
+<img width="2411" height="2411" alt="pfptp0" src="https://github.com/user-attachments/assets/a83b0a7b-b27c-43af-8798-d4569b4ee7d2" />
 
 > *“I was an ordinary person with ordinary skills. But even so, this didn't mean I could only do ordinary things.”
 ― Kim Dokja* 
