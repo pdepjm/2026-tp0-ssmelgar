@@ -12,7 +12,7 @@ Soy artista; del tipo que dibuja (tradicional y digital), canta y escribe histor
 Dejo mi último sketch probando un diseño experimental para mi próximo personaje de DnD: Phoenix Arvad. Para el que no sepa que es Dungeons and Dragons, se resume en un juego de rol donde juntas a un grupo de personas para tirar dados y tener sesiones de esquizofrenia colectiva.
 
 <img width="2875" height="2996" alt="image" src="https://github.com/user-attachments/assets/2fb33493-dcd6-4c7b-bb51-41e99c89d34e" />
-
+.
 
 Si no estoy en período creativo, paso mi tiempo generalmente leyendo o jugando a algo, de géneros variados en ambos casos. A día de hoy mi novela favorita es "Omnicient Reader's Viewpoint" de Singshong, la cual cito más arriba y mi lectura actual es "Norwegian Wood" de Haruki Murakami.
 
